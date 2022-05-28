@@ -33,6 +33,5 @@ public class Song {
 		
 	}
 
-	int a;
 
 }
